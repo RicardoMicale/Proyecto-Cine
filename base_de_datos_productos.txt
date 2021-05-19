@@ -1,0 +1,31 @@
+Productos y combos: --------------------------------------------
+Nombre Cotufas
+Tipo Comida
+Preparada
+Precio 30.0
+Nombre Coca Cola
+Tipo Bebida
+Grande
+Precio 25.0
+Nombre Nestea
+Tipo Bebida
+Grande
+Precio 25.0
+Nombre Frescolita
+Tipo Bebida
+Mediana
+Precio 22.0
+Nombre Doritos
+Tipo Comida
+Empaque
+Precio 25.0
+Nombre del combo X
+Precio 40.0
+Productos Cotufas
+Coca Cola
+
+Nombre del combo Y
+Precio 40.0
+Productos Nestea
+Cotufas
+

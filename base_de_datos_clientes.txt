@@ -1,0 +1,9 @@
+Clientes: ---------------------------------------------
+Nombre Ricardo
+Cedula 121
+Edad 19
+Pelicula comprada A
+Nombre Kevin
+Cedula 1221
+Edad 30
+Pelicula comprada D

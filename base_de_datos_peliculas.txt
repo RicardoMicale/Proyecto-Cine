@@ -1,0 +1,33 @@
+Peliculas: ---------------------------------------------------
+Titulo A
+Sala 2D
+Director A
+Rating 8.0
+Clasificacion B
+Genero Accion
+Reparto A
+
+Titulo B
+Sala 3D
+Director B
+Rating 6.0
+Clasificacion A
+Genero Drama
+Reparto B
+
+Titulo C
+Sala 4DX
+Director C
+Rating 5.6
+Clasificacion C
+Genero Drama
+Reparto C
+
+Titulo D
+Sala VIP
+Director D
+Rating 7.0
+Clasificacion D
+Genero Comedia
+Reparto D
+
